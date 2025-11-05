@@ -1,4 +1,4 @@
-# OC EFI Z170 MaximusVIII - MacOS 26.1
+# OC EFI Z170 MAXIMUSVIII - MACOS 26.1
 
 🔧 HARDWARE SPECIFICATIONS (SETUP)
 
@@ -13,37 +13,71 @@ INTEL ES QTJ2 (6/12 INTERPOSER)
 📁 FOLDER STRUCTURE
 
 EFI/
+
 ├── BOOT/
+
 │   └── BOOTX64.EFI
+
 ├── OC/
+
 │   ├── ACPI/
+
 │   │   └── MALD0N.AML
+
 │   ├── DRIVERS/
+
 │   │   ├── APFS_ALIGNED.EFI
+
 │   │   ├── APPLEALC.EFI
+
 │   │   ├── APPLEIGC.EFI
+
 │   │   ├── OPENCANOPY.EFI
+
 │   │   ├── OPENRUNTIME.EFI
+
 │   │   └── RESETNVRAMENTRY.EFI
+
 │   ├── KEXTS/
+
 │   │   ├── AIRPORTBRCMFIXUP.KEXT
+
 │   │   ├── APPLEALC.KEXT
+
 │   │   ├── APPLEIGC.KEXT
+
 │   │   ├── ATHEROSE2200ETHERNET.KEXT
+
 │   │   ├── INTELMAUSI.KEXT
+
 │   │   ├── LUCYRTL8125ETHERNET.KEXT
+
 │   │   ├── LILU.KEXT
+
 │   │   ├── NVMEFIX.KEXT
+
 │   │   ├── RADEONSENSOR.KEXT
+
 │   │   ├── REALTEKRTL8111.KEXT
+
 │   │   ├── RESTRICTEVENTS.KEXT
+
 │   │   ├── SMCPROCESSOR.KEXT
+
 │   │   ├── SMCRADEONGPU.KEXT
+
 │   │   ├── SMCSUPERIO.KEXT
+
 │   │   ├── USBINJECTALL.KEXT
+
 │   │   ├── VIRTUALSMC.KEXT
+
 │   │   ├── WHATEVERGREEN.KEXT
+
 │   │   └── XHCI-UNSUPPORTED.KEXT
+
 │   ├── RESOURCES/
+
 │   └── CONFIG.PLIST
+
 │   └── OPENCORE.EFI
