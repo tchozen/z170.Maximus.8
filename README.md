@@ -11,6 +11,8 @@
 
 ⚠️ This EFI was built for Radeon GPUs 5000/6000 series ⚠️
 
+⚠️ Don’t forget to add your Serial Number to config.plist⚠️
+
 ⚠️ USB ports may require post-installation adjustment ⚠️
 
 <h2>📁 EFI Folder Structure</h2>
