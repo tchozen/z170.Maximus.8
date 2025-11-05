@@ -19,36 +19,36 @@
 <pre>
 EFI/
 ├── BOOT/
-│   └── BOOTx64.efi
+│   └── BOOTX64.EFI
 ├── OC/
 │   ├── ACPI/
-│   │   └── MaLd0n.aml
-│   ├── Drivers/
-│   │   ├── apfs_aligned.efi
-│   │   ├── AppleALC.efi
-│   │   ├── AppleIGC.efi
-│   │   ├── OpenCanopy.efi
-│   │   ├── OpenRuntime.efi
-│   │   └── ResetNvramEntry.efi
-│   ├── Kexts/
-│   │   ├── AirportBrcmFixup.kext
-│   │   ├── AppleALC.kext
-│   │   ├── AppleIGC.kext
-│   │   ├── AtherosE2200Ethernet.kext
-│   │   ├── IntelMausi.kext
-│   │   ├── LucyRTL8125Ethernet.kext
-│   │   ├── Lilu.kext
-│   │   ├── NVMeFix.kext
-│   │   ├── RadeonSensor.kext
-│   │   ├── RealtekRTL8111.kext
-│   │   ├── RestrictEvents.kext
-│   │   ├── SMCProcessor.kext
-│   │   ├── SMCRadeonGPU.kext
-│   │   ├── SMCSuperIO.kext
-│   │   ├── USBInjectAll.kext
-│   │   ├── VirtualSMC.kext
-│   │   ├── WhateverGreen.kext
-│   │   └── XHCI-unsupported.kext
-│   ├── config.plist
-│   └── OpenCore.efi
-</pre>
+│   │   └── MALD0N.AML
+│   ├── DRIVERS/
+│   │   ├── APFS_ALIGNED.EFI
+│   │   ├── APPLEALC.EFI
+│   │   ├── APPLEIGC.EFI
+│   │   ├── OPENCANOPY.EFI
+│   │   ├── OPENRUNTIME.EFI
+│   │   └── RESETNVRAMENTRY.EFI
+│   ├── KEXTS/
+│   │   ├── AIRPORTBRCMFIXUP.KEXT
+│   │   ├── APPLEALC.KEXT
+│   │   ├── APPLEIGC.KEXT
+│   │   ├── ATHEROSE2200ETHERNET.KEXT
+│   │   ├── INTELMAUSI.KEXT
+│   │   ├── LUCYRTL8125ETHERNET.KEXT
+│   │   ├── LILU.KEXT
+│   │   ├── NVMEFIX.KEXT
+│   │   ├── RADEONSENSOR.KEXT
+│   │   ├── REALTEKRTL8111.KEXT
+│   │   ├── RESTRICTEVENTS.KEXT
+│   │   ├── SMCPROCESSOR.KEXT
+│   │   ├── SMCRADEONGPU.KEXT
+│   │   ├── SMCSUPERIO.KEXT
+│   │   ├── USBINJECTALL.KEXT
+│   │   ├── VIRTUALSMC.KEXT
+│   │   ├── WHATEVERGREEN.KEXT
+│   │   └── XHCI-UNSUPPORTED.KEXT
+│   ├── CONFIG.PLIST
+│   └── OPENCORE.EFI
+</PRE>
